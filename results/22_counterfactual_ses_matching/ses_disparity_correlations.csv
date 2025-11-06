@@ -1,0 +1,3 @@
+Analysis,Correlation,P_Value,Interpretation
+Overall Poverty-Rate Correlation,0.09014883344701574,0.5605991145393928,Positive but weak
+Overall Income-Rate Correlation,0.1170746545627354,0.44914744815842855,Positive (paradoxical)

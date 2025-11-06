@@ -1,0 +1,9 @@
+pandas 
+numpy 
+plotnine 
+plotnine[all]
+mizani 
+tableone 
+seaborn 
+ptitprince
+fredapi
