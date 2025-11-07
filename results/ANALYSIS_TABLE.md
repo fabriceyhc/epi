@@ -40,3 +40,12 @@
 | 33 | Income Inequality and Overdose Disparities | ✅ Verified | r=-0.176 |
 | 34 | Economic Precarity Index (Composite) | ✅ Verified | r=0.205 |
 | 35 | Industry Employment Shifts and Overdoses | ✅ Verified | r=0.835 |
+| 37 | Age-Risk Profile Curves by Race | 📊 Complete |  |
+| 42 | Labor Force Non-Participation and Overdose Mortality | 📊 Complete | r=-0.754 |
+| 43 | Cocaine + Fentanyl: "Collision of Epidemics" Cohort Analysis | 📊 Complete |  |
+| 45 | COVID-19 Acceleration by Race | 📊 Complete |  |
+| 48 | LA vs Other Metro Areas - Comparative Analysis | 📊 Complete |  |
+| 49 | Supply-Side vs Demand-Side Framework: Formal Test | 📊 Complete | r=-0.639 |
+| 50 | Within-Group Temporal Paradox: Mechanism Exploration | 📊 Complete | r=-0.750 |
+| 52 | Heroin-to-Fentanyl Transition by Race | 📊 Complete |  |
+| 53 | Polysubstance Complexity Score Analysis | 📊 Complete |  |

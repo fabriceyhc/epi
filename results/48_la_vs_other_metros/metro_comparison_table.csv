@@ -1,0 +1,9 @@
+Metro_Area,Year,Black_Rate,White_Rate,Ratio,Source
+"New York, NY",2020,38.2,32.7,1.17,NYC Health Dept
+California (state),2020,41.1,31.2,1.32,Literature Review
+National (US),2022,69.0,45.0,1.53,Literature Review (2022 data)
+"Los Angeles County, CA",2020,57.18499938871207,36.394005482115254,1.5712752314887113,This Study
+"Chicago, IL",2020,56.0,16.0,3.5,Literature Review
+"Philadelphia, PA",2020,,,5.0,Literature Review (est.)
+"Washington, D.C.",2020,,,6.0,Literature Review (est.)
+"Baltimore, MD",2020,118.8,17.0,6.99,Literature Review

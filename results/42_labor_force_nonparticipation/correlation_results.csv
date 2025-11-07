@@ -1,0 +1,5 @@
+Variable,Correlation_r,P_Value,Significant,Direction,Interpretation
+Labor Force Participation Rate,-0.7544872760658241,0.004572271030180344,✓,↓,Higher → Fewer deaths
+Unemployment Rate,-0.35306178702396684,0.2602826612022425,✗,↓,Higher → Fewer deaths
+Non-Participation Rate,0.7544872760658242,0.004572271030180344,✓,↑,Higher → More deaths
+Non-Employment Rate (Unemployed + Not in LF),0.03419122281932395,0.9159885541848773,✗,↑,Higher → More deaths
