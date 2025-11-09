@@ -1,0 +1,4 @@
+Analysis,Correlation,P_Value,Interpretation
+Aggregate (Time-Series),0.9691441805065539,8.915235298113826e-07,Spurious (both trending)
+Between-ZIP (Cross-Sectional),-0.42467656423018285,1.210505161097744e-13,High-rent ZIPs vs low-rent ZIPs
+Within-ZIP (Panel),0.5502669191972425,8.306283557481817e-201,Rent increases within same ZIP

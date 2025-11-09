@@ -1,6 +1,6 @@
 # Analysis Summary Table
 
-**Generated**: 2025-11-06
+**Generated**: 2025-11-09
 
 | # | Analysis | Status | Key Finding/Correlation |
 |---|----------|--------|------------------------|
@@ -47,5 +47,6 @@
 | 48 | LA vs Other Metro Areas - Comparative Analysis | 📊 Complete |  |
 | 49 | Supply-Side vs Demand-Side Framework: Formal Test | 📊 Complete | r=-0.639 |
 | 50 | Within-Group Temporal Paradox: Mechanism Exploration | 📊 Complete | r=-0.750 |
+| 51 | Rent and Overdoses: Spatial Panel Analysis | 📊 Complete | r=-0.750 |
 | 52 | Heroin-to-Fentanyl Transition by Race | 📊 Complete |  |
 | 53 | Polysubstance Complexity Score Analysis | 📊 Complete |  |

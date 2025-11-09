@@ -1,0 +1,4 @@
+Test,Type,Correlation,P_Value
+Rent(t) → Overdose(t),Contemporaneous,-0.023368081652296993,0.2670201640958993
+Rent(t-1) → Overdose(t),Rent Leads,-0.051222183033284414,0.014922796553338419
+Overdose(t-1) → Rent(t),Reverse (OD Leads),-0.0005390993170929347,0.9795740224459472
